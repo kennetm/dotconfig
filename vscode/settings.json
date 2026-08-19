@@ -1,0 +1,14 @@
+{
+    "window.titleBarStyle": "custom",
+    "workbench.activityBar.location": "top",
+    "telemetry.telemetryLevel": "off",
+    "explorer.compactFolders":false,
+    "editor.glyphMargin": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "chat.disableAIFeatures": true,
+    "explorer.confirmDelete": false,
+    "python.analysis.typeCheckingMode": "standard",
+    "editor.fontSize": 20,
+    "terminal.integrated.fontSize": 20
+}
